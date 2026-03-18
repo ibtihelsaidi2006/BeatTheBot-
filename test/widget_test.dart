@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:Beat_the_Bot/main.dart';
+import 'package:beat_the_bot/main.dart';
 
 void main() {
   testWidgets('App builds', (WidgetTester tester) async {
