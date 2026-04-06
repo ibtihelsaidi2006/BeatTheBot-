@@ -130,11 +130,11 @@ All screens follow a strict **arcade terminal aesthetic** 🖥️:
 
 | 🎨 Token | 💡 Value |
 |---|---|
-| 🖤 Background | `#080808` |
-| 💚 Primary accent | `#00FF88` |
-| 📦 Surface | `rgba(255,255,255,0.03)` |
-| 🔲 Borders | Angular — no rounded corners |
-| 🔤 Typography | Monospace for all labels |
+| Background | `#FFF0FA` — soft blush pink |
+| Primary accent | `#9B5DE5` — purple |
+| Secondary accent | `#FF6B9D` — pink |
+| Cards | White, rounded corners (20px), soft shadows |
+| Typography | Nunito, weight 700–900 |
 
 ---
 
